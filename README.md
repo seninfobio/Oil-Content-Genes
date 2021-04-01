@@ -7,3 +7,4 @@
 
 [Seed Transcriptomics Analysis in Camellia oleifera Uncovers Genes Associated with Oil Content and Fatty Acid Composition](https://www.mdpi.com/1422-0067/19/1/118/htm)
 
+[Improving Nutritional and Functional Quality by Genome Editing of Crops: Status and Perspectives](https://www.frontiersin.org/articles/10.3389/fpls.2020.577313/full#h4)
